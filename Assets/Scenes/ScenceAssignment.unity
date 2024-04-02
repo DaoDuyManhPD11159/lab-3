@@ -705,7 +705,7 @@ PrefabInstance:
     - target: {fileID: 5095366417293907876, guid: 2fd78e9aa7a1b5d42b7149b14c070080, type: 3}
       propertyPath: bulletPrefab
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8624388764158391901, guid: a7f5b3a7fc12a1543be18164bcb7ec26, type: 3}
     - target: {fileID: 5095366417293907876, guid: 2fd78e9aa7a1b5d42b7149b14c070080, type: 3}
       propertyPath: countdownText
       value: 
