@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TrangPhucController : MonoBehaviour
+public class costumecontroller : MonoBehaviour
 {
-    public GameObject trangPhuc;
+    public GameObject Costume;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,7 +20,7 @@ public class TrangPhucController : MonoBehaviour
     }
     public void ShowMenu()
     {
-        trangPhuc.SetActive(true); // Hiển thị Menu
+        Costume.SetActive(true); // Hiển thị Menu
     }
 }
 

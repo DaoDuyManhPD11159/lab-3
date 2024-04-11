@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SocialPlatforms.Impl;
 using UnityEngine.UI;
 
-public class MenuController : MonoBehaviour
+public class Menu: MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject menuChinh;
